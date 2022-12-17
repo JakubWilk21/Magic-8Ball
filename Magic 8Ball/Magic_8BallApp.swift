@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct Magic_8BallApp: App {
     var body: some Scene {
